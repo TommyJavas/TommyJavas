@@ -1,1 +1,1 @@
-[# 👋 Hello, I'm TommyJavas](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hello,%20I'm%20TommyJavas&fontSize=65&animation=fadeIn)
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👋%20Hello,%20I'm%20TommyJavas&fontSize=65&animation=fadeIn
