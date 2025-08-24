@@ -32,15 +32,6 @@
   
 ## 📊 GitHub Stats  
 
-<style>
-  
-  .stat-card {
-    border-radius: 15px;
-    border: 2px solid #FFC0CB;
-  }
-  
-</style>
-
 <table>
   <tr>
     <td width="50%">
