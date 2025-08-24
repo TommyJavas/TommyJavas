@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, I'm [username] !
 
-<!--
-**TommyJavas/TommyJavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-stats.ubrong.com/api?username=TommyJavas&show_icons=true&theme=tokyonight)
+![Most used languages](https://github-stats.ubrong.com/api/top-langs/?username=TommyJavas&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+### Featured Repositories
+![Repo Card](https://github-stats.ubrong.com/api/pin/?username=TommyJavas&repo=TommyJavas&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Stats
+![GitHub followers](https://stats.justsong.cn/api/github?username=TommyJavas&theme=dark&lang=zh-CN)
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/TommyJavas/count.svg)
+
+### Badges
+![language/version](https://badgen.net/badge/javascript/ES6/brightgreen?icon=javascript)
