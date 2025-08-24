@@ -1,55 +1,42 @@
-#  Hi, I’m TommyJavas 👋
+# 👋 Hello, I'm TommyJavas
 
-✨ Welcome to my corner of GitHub! I’m a passionate developer crafting code, building cool projects, and always learning something new.
-
----
-
-##  About Me
--  **Name**: Tommy (TommyJavas on GitHub)
--  **Role**: [Your Role — e.g., Full Stack Developer, Game Dev, Data Enthusiast]
--  **Location**: Los Angeles, California, USA
--  **Interests**: AI, Web Development, Cybersecurity, Open Source, Java, Python, [add your passions]
+![Visitor Count](https://profile-counter.glitch.me/TommyJavas/count.svg)
 
 ---
 
-##  Featured Projects
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **[Project-1-Name]** | Short one-liner describing what it does | Java, Spring Boot, React |
-| **[Project-2-Name]** | Quick description of the project | Python, Flask, Docker |
-| **[Project-3-Name]** | Highlight your innovation or fun fact | JavaScript, Node.js, Express |
-
-*(Be sure to fill in your actual project names and details.)*
+## 🚀 About Me
+- 🌱 I’m currently learning **Java / Web Development**
+- 💡 Passionate about **Open Source** and **Backend Engineering**
+- 🎯 Goal: To build impactful and scalable software
+- ⚡ Fun fact: I enjoy coding at midnight 🌙
 
 ---
 
-##  GitHub Stats & Languages
-<p align="center">
-  <a href="https://github.com/TommyJavas">
-    ![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyJavas&show_icons=true&theme=radical)
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TommyJavas&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TommyJavas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TommyJavas&layout=compact&theme=tokyonight)
 
 ---
 
-##  Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-name-or-username" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/your-username" target="_blank">Twitter</a> •
-  <a href="https://your-portfolio.com" target="_blank">Portfolio</a>
-</p>
+## 📂 Featured Repositories
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TommyJavas&repo=YourRepoName&theme=tokyonight)](https://github.com/TommyJavas/YourRepoName)
 
 ---
 
-##  Fun Fact
-- I’m always up for a coding challenge, whether it's mastering an algorithm or contributing to an open source project.
-- *“Any sufficiently advanced technology is indistinguishable from magic.”* – Arthur C. Clarke
+## 🌐 Social Stats
+![GitHub followers](https://img.shields.io/github/followers/TommyJavas?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/TommyJavas?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
-> Made with ❤️ by **TommyJavas**  
-> (Feel free to customize—add a themed badge, project GIF, or alternate sections as your vibe evolves!)
+## 🛠️ Tech Stack
+![Java](https://badgen.net/badge/Java/11+/red?icon=java)
+![Spring Boot](https://badgen.net/badge/SpringBoot/2.x/green?icon=spring)
+![JavaScript](https://badgen.net/badge/JavaScript/ES6/yellow?icon=javascript)
+![Node.js](https://badgen.net/badge/Node.js/18+/brightgreen?icon=node)
+![MySQL](https://badgen.net/badge/MySQL/8.0/blue?icon=mysql)
+![Docker](https://badgen.net/badge/Docker/🐳/blue?icon=docker)
 
+---
+
+✨ *Thanks for visiting my profile!* ✨  
